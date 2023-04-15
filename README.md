@@ -1,5 +1,5 @@
 # resume
-Resume API using Django Framework
+Resume API using Django Framework and Django REST Framework
 
 ### Create a new Resume
 ```
