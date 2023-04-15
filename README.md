@@ -1,6 +1,11 @@
 # resume
 Resume API using Django Framework and Django REST Framework
 
+### Run the server
+```
+python3 manage.py runserver
+```
+
 ### Create a new Resume
 ```
 http://127.0.0.1:8000/api/resume/create
